@@ -30,3 +30,4 @@ A secure and efficient backend for managing user data, workout logs, and goal tr
 
 2. **vercel live**
 
+https://fitness-tracker-application.onrender.com
